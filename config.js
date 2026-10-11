@@ -15,7 +15,7 @@
 
 // The IP address of your GMod server
 // Leave empty if you want to force entering the IP address as query parameter
-GMSERVER_IP = "";
+GMSERVER_IP = "193.243.190.107";
 
 // The port of your GMod server
 // Defaults to 27015 if left empty and no query parameter is provided
